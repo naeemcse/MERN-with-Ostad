@@ -1,0 +1,16 @@
+0.  npm init --y
+1.
+2. npm install body-parser
+3. npm install cookie-parser
+4. npm install --save multer
+5. npm install jsonwebtoken
+6. npm install mysql.
+7. npm install mongoose
+8. npm install dotenv --sav
+9. npm install cors
+10. npm install express-mongo-sanitize
+11. npm i express-rate-limit
+12. npm i helmet
+13. npm i hpp
+14.
+
